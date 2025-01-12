@@ -8,14 +8,14 @@ def bottle_song(bottles):
 			" Take one down and pass it around,")
 			
 		else:
-			print(f"1 bottle of beer on the wall, 1 bottle of beer"
+			print(f"1 bottle of beer on the wall, 1 bottle of beer."
 			" Take one down and pass it around, no more bottles of beer on"
 			" the wall.")
 		bottles -=1	
 			
 	print("No more bottles of beer on the wall, no more bottles of beer."
-	" It's time to buy more bottles of beer,") 
-	print("99 bottles of beer on the wall")
+	" It's time to buy more bottles of beer.") 
+	
 	
 def main():
 #get the number of bottles from user	
